@@ -1,0 +1,14 @@
+{
+    "travel-schema": {
+        "object_owner": {
+            "roles": [
+                "travel::external_access_g"
+            ]
+        },
+        "application_user": {
+            "roles": [
+                "travel::external_access"
+            ]
+        }
+    }
+}
